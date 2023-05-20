@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">mybookshop</string>
+    <string name="book_cover">Book Cover</string>
+    <string name="add_book">Add Book</string>
+    <string name="enter_isbn">Enter Book ISBN</string>
+    <string name="enter_title">Enter Book Title</string>
+    <string name="enter_book_year">Enter Book Publish Year</string>
+    <string name="add">Add!</string>
+</resources>
